@@ -26,3 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Proje Resmi
 
 ![Proje Resim](https://hizliresim.com/pj05zlc "Proje Resim")
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
